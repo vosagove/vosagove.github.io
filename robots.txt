@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vosagove.github.io/sitemap/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/SNb/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/fKC/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/uHo/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/HhG/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/ojW/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/bxF/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/YPx/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/rdf/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/gnK/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/Jkn/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/WkQ/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/TNl/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/Jfb/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/ncj/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/Wfv/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/XdD/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/kxQ/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/uiZ/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/KiT/sitemap_index.vosagove
+Sitemap: https://vosagove.github.io/Cnm/sitemap_index.vosagove
